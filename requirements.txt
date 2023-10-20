@@ -1,20 +1,20 @@
-future
+future 0.18.3
 emoji
 numpy
 lxml
 beautifulsoup4
 requests
 sqlalchemy
-python-telegram-bot
-psycopg2-binary
-feedparser
-pynewtonmath
-spongemock
-zalgo-text
-geopy
-nltk
-psutil
-aiohttp
+python-telegram-bot 20.6
+psycopg2-binary 2.9.9
+feedparser 6.0.10
+pynewtonmath 1.0.1
+spongemock 1.0.0
+zalgo-text 0.6
+geopy 2.4.0
+nltk 3.8.1
+psutil 5.9.6
+aiohttp 3.8.6
 Pillow
 CurrencyConverter
 googletrans
